@@ -41,5 +41,5 @@ window = sg.Window('Projectile Drag', tab1_layout)
 
    1.1 The equation for Drag:
    
-       F=K*V^2
+       $$F=K*V^2$$
    
