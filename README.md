@@ -38,6 +38,8 @@ window = sg.Window('Projectile Drag', tab1_layout)
 ## Add action to both the "Calculate" & "Exit" buttons by including the needed calculations for a projectile with drag.
 
 1. Equations to calculate projectile with drag:
-   The equation for Drag:
-   $`\F = K*V^2
+
+   1.1 The equation for Drag:
+   
+       $\F = K*V^2
    
