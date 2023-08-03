@@ -27,7 +27,7 @@ tab1_layout = [
 
 ```
 
-The options given to the user using this GUI are the input of "Mass in kg", "Internal Velocity", and "Angle to the x-axis in degrees". Each of these variables are needed for the projectile with drag equation. 
+The options given to the user using this GUI are the input of "Mass in kg", "Internal Velocity", and "Angle to the x-axis in degrees". Each of these variables is needed for the projectile with drag equation. 
 
 Now you need to name your window and direct it back to your layout above.
 
@@ -41,5 +41,5 @@ window = sg.Window('Projectile Drag', tab1_layout)
 
    1.1 The equation for Drag:
    
-       $\F=K*V^2
+       $\F=K*V^2$
    
