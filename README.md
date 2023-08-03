@@ -40,6 +40,7 @@ window = sg.Window('Projectile Drag', tab1_layout)
 1. Equations to calculate projectile with drag:
 
    1.1 The equation for Drag:
-   
+       \begin{equation}
        F=K*V^2
+       \end{equation}
    
