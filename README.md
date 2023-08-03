@@ -10,10 +10,11 @@ import PySimpleGUI as sg
 import numpy as np
 import matplotlib.pyplot as plt
 ```
-## First lets make the layout of the GUI:
+## First let's make the layout of the GUI:
 
 First, we select the colour of the GUI, in this case, it is ```sg.theme('DarkBlue14')```.
-Then followed by the layout if the GUI, in this case, we are using both text and input text. 
+
+Then followed by the layout of the GUI, in this case, we are using both text and input text. 
 
 ```
 tab1_layout = [
@@ -25,3 +26,15 @@ tab1_layout = [
     [sg.Button('Calculate'), sg.Button('Exit')]] 
 
 ```
+
+The options given to the user using this GUI are the input of "Mass in kg", "Internal Velocity", and "Angle to the x-axis in degrees". Each of these variables are needed for the projectile with drag equation. 
+
+Now you need to name your window and direct it back to your layout above.
+
+```
+window = sg.Window('Projectile Drag', tab1_layout)
+```
+
+## Add action to both the "Calculate" & "Exit" buttons by including the needed calculations for a projectile with drag.
+
+
