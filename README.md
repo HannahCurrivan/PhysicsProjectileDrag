@@ -10,3 +10,6 @@ import PySimpleGUI as sg
 import numpy as np
 import matplotlib.pyplot as plt
 ```
+## First lets make the layout of the GUI:
+
+First, we select the colour of the GUI, in this case, it is ```sg.theme('DarkBlue14')```.
