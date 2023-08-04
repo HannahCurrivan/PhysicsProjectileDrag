@@ -41,7 +41,7 @@ window = sg.Window('Projectile Drag', tab1_layout)
 
    1.1 The equation for Drag:
 
-      $ F=K*V^2 $
+      $' F=K*V^2 '$
    
    1.2 The initial velocity of the projectile includes the "Internal Velocity in m/s" which is one of the user's inputs by the angle.
 
@@ -52,4 +52,15 @@ window = sg.Window('Projectile Drag', tab1_layout)
    Apply to both "Internal Velocity in m/s" and "\Theta (radians)" to the initial velocity equation:
    
       $ vx = v*x*cos\Theta $
+
    
+
+
+
+
+
+
+
+
+
+
