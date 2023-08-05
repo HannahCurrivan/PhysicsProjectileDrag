@@ -59,6 +59,7 @@ window = sg.Window('Projectile Drag', tab1_layout)
    
       ![alt text](https://github.com/HannahCurrivan/PhysicsProjectileDrag/blob/main/Initial_V.JPG)
 
+   1.3 Calculate the initial acceleration of both X and Y:
    
 
    
