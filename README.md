@@ -40,9 +40,9 @@ window = sg.Window('Projectile Drag', tab1_layout)
 1. Equations to calculate projectile with drag:
 
    1.1 The equation for Drag:
-     ```
-      F=K*V^2
-     ```
+
+    
+
    1.2 The initial velocity of the projectile includes the "Internal Velocity in m/s" which is one of the user's inputs by the angle.
 
    First, convert the angel into \Theta (radians):
