@@ -49,13 +49,17 @@ window = sg.Window('Projectile Drag', tab1_layout)
 
    1.2 The initial velocity of the projectile includes the "Internal Velocity in m/s" which is one of the user's inputs by the angle.
 
-   First, convert the angel into \Theta (radians):
+   First, convert the angle into θ (radians):
     
-      $ \Theta (radians) = degrees / 180 * \pi $
-    
-   Apply to both "Internal Velocity in m/s" and "\Theta (radians)" to the initial velocity equation:
+      ![alt text](https://github.com/HannahCurrivan/PhysicsProjectileDrag/blob/main/degree_radians.JPG)
+
+    The degree is given by the user's input.
+
+   Apply to both "Internal Velocity in m/s" and "θ (radians)" to the initial velocity equation:
    
-      $ vx = v*x*cos\Theta $
+      ![alt text](https://github.com/HannahCurrivan/PhysicsProjectileDrag/blob/main/Initial_V.JPG)
+
+   
 
    
 
