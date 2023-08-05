@@ -41,7 +41,11 @@ window = sg.Window('Projectile Drag', tab1_layout)
 
    1.1 The equation for Drag:
 
-    
+    ![alt text](https://github.com/HannahCurrivan/PhysicsProjectileDrag/blob/main/drag.JPG)
+
+    K = Drag Coefficient.
+
+    V = Internal Velocity in m/s
 
    1.2 The initial velocity of the projectile includes the "Internal Velocity in m/s" which is one of the user's inputs by the angle.
 
