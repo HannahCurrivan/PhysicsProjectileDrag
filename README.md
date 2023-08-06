@@ -41,7 +41,7 @@ window = sg.Window('Projectile Drag', tab1_layout)
 
    **1.1** The equation for Drag:
 
-    ![alt text](https://github.com/HannahCurrivan/PhysicsProjectileDrag/blob/main/drag.JPG)
+![alt text](https://github.com/HannahCurrivan/PhysicsProjectileDrag/blob/main/drag.JPG)
 
     K = Drag Coefficient.
 
@@ -51,13 +51,13 @@ window = sg.Window('Projectile Drag', tab1_layout)
 
    First, convert the angle into θ (radians):
     
-      ![alt text](https://github.com/HannahCurrivan/PhysicsProjectileDrag/blob/main/degree_radians.JPG)
+![alt text](https://github.com/HannahCurrivan/PhysicsProjectileDrag/blob/main/degree_radians.JPG)
 
     The degree is given by the user's input.
 
     Apply to both "Internal Velocity in m/s" and "θ (radians)" to the initial velocity equation:
    
-      ![alt text](https://github.com/HannahCurrivan/PhysicsProjectileDrag/blob/main/Initial_V.JPG)
+![alt text](https://github.com/HannahCurrivan/PhysicsProjectileDrag/blob/main/Initial_V.JPG)
 
    **1.3 Calculate the initial acceleration of both X and Y:**
    
