@@ -107,11 +107,7 @@ ay = [-g-(F*np.cos(ang/180 * np.pi))/M]
 
 ## Calculate the time value of an object.
 
-Append time (t), and the initial velocity of both X (vx) and Y (vy). Two new lists have been made named "x" and "y". 
-
-Then calculate the magnitude of the new velocity, using the following equation:
-
-![alt text]()
+Append time (t), and the initial velocity of both X (vx) and Y (vy). Two new lists have been made named "x" and "y" which will append the data from both Vx and Vy over a period of time. In addition, this while loop includes the calculation of the magnitude of the new velocity, which is then appended to a list called ax and ay. 
 
 ```
 t = [0]
@@ -137,7 +133,7 @@ while (counter < 10):
 
 ## Plot the outcome:
 
-
+The final step is to display your data using "matplotlib.pyplot".
 
 ```
 plt.figure()    
