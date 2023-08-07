@@ -111,7 +111,7 @@ Append time (t), and the initial velocity of both X (vx) and Y (vy). Two new lis
 
 In addition, this while loop includes the calculation of the magnitude of the new velocity, which is then appended to a list called ax and ay. 
 
-![alt text](https://github.com/HannahCurrivan/PhysicsProjectileDrag/blob/main/Mag_Vel.JPG)
+![alt text](https://github.com/HannahCurrivan/PhysicsProjectileDrag/blob/main/Magnitude_Vel.JPG)
 
 ```
 t = [0]
