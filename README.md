@@ -154,3 +154,13 @@ plt.ylabel("y (m)")
 plt.xlabel("x (m)")
 plt.show()
 ```
+
+![alt text](https://github.com/HannahCurrivan/PhysicsProjectileDrag/blob/main/PDGUI.JPG)
+
+The graphical outcome from the input of mass as 1, Internal Velocity as 25, and Angle as 35.
+
+![alt text](https://github.com/HannahCurrivan/PhysicsProjectileDrag/blob/main/DPT.png)
+
+![alt text](https://github.com/HannahCurrivan/PhysicsProjectileDrag/blob/main/DPT.png)
+
+![alt text](https://github.com/HannahCurrivan/PhysicsProjectileDrag/blob/main/VPT.png)
