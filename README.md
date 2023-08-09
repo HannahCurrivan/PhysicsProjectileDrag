@@ -161,6 +161,4 @@ The graphical outcome from the input of mass as 1, Internal Velocity as 25, and 
 
 ![alt text](https://github.com/HannahCurrivan/PhysicsProjectileDrag/blob/main/DPT.png)
 
-![alt text](https://github.com/HannahCurrivan/PhysicsProjectileDrag/blob/main/DPT.png)
-
 ![alt text](https://github.com/HannahCurrivan/PhysicsProjectileDrag/blob/main/VPT.png)
